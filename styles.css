@@ -1,0 +1,13 @@
+.adbtn {
+  width: 100px;
+  height: 30px;
+  border: 1px solid #028644;
+  padding: 3px;
+  margin: 0px;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  color: #222222;
+  background-color: #d2f4d7; 
+  border-radius: 8px;
+}
