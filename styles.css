@@ -1,4 +1,29 @@
-.adbtn {
+
+
+
+
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+    background-image: url('background.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    border: 3px solid green;
+    height: 500px;
+    background-color: #0000009e;
+}
+
+button {
+  
   width: 100px;
   height: 30px;
   border: 1px solid #028644;
@@ -8,6 +33,12 @@
   font-weight: bold;
   font-style: normal;
   color: #222222;
-  background-color: #d2f4d7; 
-  border-radius: 8px
+  background-color: #56c566; 
+  border-radius: 8px;
+  cursor: pointer;
 }
+.header {
+  font-size: 60px;
+}
+
+
