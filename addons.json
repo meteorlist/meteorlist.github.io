@@ -1,0 +1,32 @@
+[
+    {
+        "name": "MeteorExtras",
+        "author": "JuusK",
+        "repository": "https://github.com/JuusK/MeteorExtras"
+    },
+    {
+        "name": "TrouserStreak",
+        "author": "etianl",
+        "repository": "https://github.com/etianl/Trouser-Streak"
+    },
+    {
+        "name": "Lyra",
+        "author": "RattlesHyper",
+        "repository": "https://github.com/RattlesHyper/lyra-addon"
+    },
+    {
+        "name": "Meteor+",
+        "author": "Neki_play",
+        "repository": "https://github.com/MeteorClientPlus/MeteorPlus"
+    },
+    {
+        "name": "ServerSeeker",
+        "author": "Crosby",
+        "repository": "https://github.com/RacoonDog/MeteorServerSeeker"
+    },
+    {
+        "name": "Numby",
+        "author": "cqb13",
+        "repository": "https://github.com/cqb13/Numby-hack"
+    }
+]
