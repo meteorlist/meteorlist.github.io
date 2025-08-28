@@ -1,3 +1,4 @@
+
 const output = document.querySelector(".output");
 const output2 = document.createElement("div");
 const ul = document.createElement("ul");
@@ -32,11 +33,19 @@ function addToPage(arr) {
         div.append(authorText);
 
         const infoButton = document.createElement("button");
+        infoButton.className = "infobutton"
         infoButton.textContent = "Show Info";
         div.append(infoButton);
-
-        
-
-
+        infoButton.addEventListener("click", (e)=>{
+            togglePopup();
+            document.getElementById("form-name").textContent = element.name;
+            document.getElementById("form-label").textContent = element.description;
+            document.getElementById("btn-repo").href = element.repository
+        })
     });
+}
+
+function togglePopup() {
+    const overlay = document.getElementById('popupOverlay')
+    overlay.classList.toggle('visible')
 }

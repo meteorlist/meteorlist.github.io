@@ -4,8 +4,23 @@
 
 <html>
     <body>
-        <div class="output"></div>
+        <div class="output">
+            <input type="text" placeholder="Search..">
+        </div>
         <script src="addons.js"></script>
+
+        <div id="popupOverlay" class="popup-overlay-container">
+            <div class="popup-box">
+                <h2 id="form-name" style="color: green;">placeholderName</h2>
+                <form class="form-container">
+                    <label id="form-label" class="form-label">placeholderText</label>
+                </form>
+                <div>
+                    <button id="btn-repo" class="btn-repo">Repository</button>
+                    <button class="btn-close-popup" onclick="togglePopup()">Close</button>
+                </div>
+            </div>
+        </div>
 
     </body>
 </html>

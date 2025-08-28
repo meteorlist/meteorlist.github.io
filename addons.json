@@ -2,6 +2,7 @@
     {
         "name": "MeteorExtras",
         "author": "JuusK",
+        "description": "",
         "repository": "https://github.com/JuusK/MeteorExtras"
     },
     {
@@ -12,21 +13,25 @@
     {
         "name": "Lyra",
         "author": "RattlesHyper",
+        "description": "",
         "repository": "https://github.com/RattlesHyper/lyra-addon"
     },
     {
         "name": "Meteor+",
         "author": "Neki_play",
+        "description": "",
         "repository": "https://github.com/MeteorClientPlus/MeteorPlus"
     },
     {
         "name": "ServerSeeker",
         "author": "Crosby",
+        "description": "",
         "repository": "https://github.com/RacoonDog/MeteorServerSeeker"
     },
     {
         "name": "Numby",
         "author": "cqb13",
+        "description": "",
         "repository": "https://github.com/cqb13/Numby-hack"
     }
 ]
