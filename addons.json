@@ -33,5 +33,29 @@
         "author": "cqb13",
         "description": "",
         "repository": "https://github.com/cqb13/Numby-hack"
+    },
+        {
+        "name": "Meteorist",
+        "author": "Zgoly",
+        "description": "",
+        "repository": "https://github.com/Zgoly/Meteorist"
+    },
+        {
+        "name": "Blackout",
+        "author": "KassuK1",
+        "description": "",
+        "repository": "https://github.com/KassuK1/BlackOut"
+    },
+        {
+        "name": "Vector",
+        "author": "cally72jhb",
+        "description": "",
+        "repository": "https://github.com/cally72jhb/vector-addon"
+    },
+        {
+        "name": "Notifications Addon",
+        "author": "SIMULATAN",
+        "description": "",
+        "repository": "https://github.com/SIMULATAN/meteor-notifications-addon"
     }
 ]
